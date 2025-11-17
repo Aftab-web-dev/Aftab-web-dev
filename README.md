@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Aftab, a passionate developer specializing in React and React Native with Expo. My expertise lies in crafting intuitive and visually appealing user interfaces. I love the challenge of building UI components that are not only functional but also enhance the overall user experience. Whether it's designing a sleek mobile app or a responsive web application, I enjoy every step of the process, from conceptualizing and prototyping to coding and refining. Let's create something amazing together!
+I'm a passionate Software Developer specializing in React, React Native (Expo), and the MERN stack.I build scalable web and mobile applications using modern frameworks, including Next.js, Express, and MongoDB.
+I enjoy turning ideas into functional, user-friendly digital products and continuously improving my skills.!
 
 
 ## 🌐 Socials:
