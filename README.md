@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=230&section=header&text=Aftab%20Saleem%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20Full%20Stack%20%7C%20AI%20Developer&descSize=18&descAlignY=55&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+Building+Production+Apps;Shipped+React+Native+Travel+App+%F0%9F%9A%80;Led+Frontend+for+AI-Powered+Platform;50%25+Page+Load+Improvement+%E2%9A%A1;Open+Source+Contributor+%F0%9F%92%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+Building+Production+Apps;Shipped+React+Native+Travel+App+%F0%9F%9A%80;Led+Frontend+for+AI-Powered+Platform;50%25+Page+Load+Improvement+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
