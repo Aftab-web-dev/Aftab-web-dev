@@ -27,8 +27,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Aftab-Web-Dev&show_icons=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" /></td>
-<td><img src="https://streak-stats.demolab.com?user=Aftab-Web-Dev&theme=transparent&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" /></td>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Aftab-Web-Dev&theme=transparent&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" /></td>
 </tr>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-Web-Dev&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" /></td>
